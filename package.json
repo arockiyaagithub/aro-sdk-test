@@ -1,6 +1,6 @@
 {
   "name": "aro-test-sdk",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "The official TypeScript library for the Aro Test SDK API",
   "author": "Aro Test SDK <dev-feedback@aro-test-sdk.com>",
   "types": "dist/index.d.ts",
